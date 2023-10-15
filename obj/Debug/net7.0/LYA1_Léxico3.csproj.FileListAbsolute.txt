@@ -1,0 +1,14 @@
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.AssemblyInfoInputs.cache
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.AssemblyInfo.cs
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.csproj.CoreCompileInputs.cache
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\bin\Debug\net7.0\LYA1_Léxico3.exe
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\bin\Debug\net7.0\LYA1_Léxico3.deps.json
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\bin\Debug\net7.0\LYA1_Léxico3.runtimeconfig.json
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\bin\Debug\net7.0\LYA1_Léxico3.dll
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\bin\Debug\net7.0\LYA1_Léxico3.pdb
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.dll
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\refint\LYA1_Léxico3.dll
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.pdb
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\LYA1_Léxico3.genruntimeconfig.cache
+C:\Users\lidia\OneDrive\Escritorio\Trabajos Uni\5TO SEMESTRE\Lenguajes automatas I\LYA1_Léxico3\obj\Debug\net7.0\ref\LYA1_Léxico3.dll
