@@ -22,4 +22,9 @@ x26 = Identificador
 <> = OpRelacional
 < = OpRelacional
 * = OpFactor
-%￿ = OpFactor
+% = OpFactor
+%= = IncFactor
+? = OpTernario
+fdf = Identificador
+"HOLA MMUNDO" = Cadena
+"" = Cadena
