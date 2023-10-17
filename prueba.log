@@ -1,7 +1,9 @@
+{ = InicioLlave
 x26 = Identificador
 = = Asignacion
 3.14 = Numero
 + = OpTermino
+> = OpRelacional
 ++ = IncTermino
 + = OpTermino
 - = OpTermino
@@ -17,6 +19,7 @@ x26 = Identificador
 || = OpLogico
 ! = OpLogico
 != = OpRelacional
+s = Identificador
 > = OpRelacional
 >= = OpRelacional
 <> = OpRelacional
@@ -26,5 +29,10 @@ x26 = Identificador
 %= = IncFactor
 ? = OpTernario
 fdf = Identificador
+/= = IncFactor
+/ = OpFactor
 "HOLA MMUNDO" = Cadena
-"" = Cadena
+"HOLA" = Cadena
+} = FinLLave
+/**
+**/ = comentarios
