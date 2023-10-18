@@ -10,7 +10,7 @@ x26 = Identificador
 & = Caracter
 || = OpLogico
 | = Caracter
-== = Asignacion
+== = OpRelacional
 = = Asignacion
 ! = OpLogico
 != = OpRelacional
@@ -28,4 +28,4 @@ x26 = Identificador
 *= = IncFactor
 /= = IncFactor
 } = FinLLave
-E = Identificador
+" = Cadena

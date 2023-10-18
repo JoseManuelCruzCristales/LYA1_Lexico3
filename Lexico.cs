@@ -132,6 +132,7 @@ namespace LYA1_Lexico3
                 case 1: setClasificacion(Tipos.Identificador); break;
                 case 2: setClasificacion(Tipos.Numero); break;
                 case 8: setClasificacion(Tipos.Asignacion); break;
+                case 9: setClasificacion(Tipos.OpRelacional); break;
                 case 10: setClasificacion(Tipos.FinSentencia); break;
                 case 11: setClasificacion(Tipos.Caracter); break;
                 case 12: setClasificacion(Tipos.Caracter); break;
